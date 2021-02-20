@@ -1,4 +1,4 @@
-Gmail Clone
+<h1>Gmail Clone</h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
