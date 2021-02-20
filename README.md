@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+Gmail Clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+🎯 This is a Gmail Clone. The intention is to learn more on React and Redux as I go
 
 ## Available Scripts
 
